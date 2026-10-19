@@ -11,7 +11,7 @@ Rana Beyza Culus · Endüstri Mühendisliği Bitirme Projesi
 
 </div>
 
-![ECOVERA genel bakış ekranı](assets/genel-bakis.png)
+![ECOVERA genel bakış ekranı](assets/genel-bakis.webp)
 
 ## Proje hakkında
 
@@ -35,19 +35,19 @@ CSV/Excel ile veri yüklemeden başlayan süreç; gösterge analizi, performans 
 
 Gösterge analizi, çevresel, ekonomik ve operasyonel performansı oluşturan bileşenleri görünür kılar. Fayda ve maliyet yönleri farklı göstergeler ortak değerlendirme ölçeğinde izlenebilir. Böylece toplam puanın arkasındaki güçlü ve zayıf alanlar incelenir.
 
-![Gösterge analizi — hassas değerler ve formül alanları bulanıklaştırılmıştır](assets/gosterge-analizi.png)
+![Gösterge analizi — hassas değerler ve formül alanları bulanıklaştırılmıştır](assets/gosterge-analizi.webp)
 
 ### 2 · SSI ve performans sınıflandırması: ortak değerlendirme
 
 SSI ekranı; çevresel, ekonomik ve operasyonel boyut skorlarını, bileşik skoru ve ağırlık dağılımını birlikte sunar. Altın, Gümüş ve Bronz kademeleri model içindeki performans sınıflarıdır. Sosyal göstergeler ayrı bir izleme alanında sunulur.
 
-![SSI, boyut skorları ve proje içi sınıflandırma](assets/ssi-siniflandirma.png)
+![SSI, boyut skorları ve proje içi sınıflandırma](assets/ssi-siniflandirma.webp)
 
 ### 3 · Veto ve kritik risk: toplam skordan ayrı kontrol
 
 İyi bir toplam skorun kritik bir riski örtmesini önlemek amacıyla karbon yoğunluğu ve iş sağlığı/güvenliği koşulları ayrıca değerlendirilir. Veto durumu, eşik karşılaştırmaları ve dönemsel geçmiş aynı ekranda izlenir. Modelde veto etkinleştiğinde performans kademesi verilmez; SSI tanısal olarak gösterilmeye devam eder.
 
-![Veto ve kritik risk izleme — sayısal değerler bulanıklaştırılmıştır](assets/veto-kritik-risk.png)
+![Veto ve kritik risk izleme — sayısal değerler bulanıklaştırılmıştır](assets/veto-kritik-risk.webp)
 
 ### 4 · Aksiyon reçetesi: bulgudan iyileştirme gündemine
 
@@ -55,19 +55,19 @@ Aksiyon reçetesi, değerlendirmede zayıf kalan alanları öncelik ve boyut eti
 
 Mühendis görünümünde her öneri, ilgili gösterge ve normalize skorla birlikte sunulur; böylece önceliğin gerekçesi incelenebilir.
 
-![Mühendis görünümü: gerekçeli ve önceliklendirilmiş aksiyon önerileri — ham değerler bulanıklaştırılmıştır](assets/aksiyon-recetesi.png)
+![Mühendis görünümü: gerekçeli ve önceliklendirilmiş aksiyon önerileri — ham değerler bulanıklaştırılmıştır](assets/aksiyon-recetesi.webp)
 
 ### 5 · Senaryo analizi: değişiklikleri uygulamadan önce karşılaştırma
 
 Üretim, enerji, emisyon, maliyet ve operasyonel girdiler için varsayımsal değerler tanımlanır. Sistem baz durumu ve senaryoyu birlikte gösterir; skor değişimini, en çok iyileşen göstergeyi ve en fazla etkilenen boyutu raporlar.
 
-![Senaryo girişleri ve sonuç karşılaştırması — ham sayısal girdiler bulanıklaştırılmıştır](assets/senaryo-sonuclari.png)
+![Senaryo girişleri ve sonuç karşılaştırması — ham sayısal girdiler bulanıklaştırılmıştır](assets/senaryo-sonuclari.webp)
 
 ### 6 · Raporlama: dönemsel değişimi izleme
 
 SSI ve boyut skorlarının zaman içindeki değişimi aynı raporlama ekranında izlenebilir. Grafikler, tek bir dönem sonucunun ötesinde performans eğilimini inceleme olanağı sunar. CSV dışa aktarımı ve yazdırma/PDF görünümü değerlendirmelerin paylaşılmasını destekler.
 
-![SSI ve boyut skorlarının dönemsel eğilimleri](assets/raporlama.png)
+![SSI ve boyut skorlarının dönemsel eğilimleri](assets/raporlama.webp)
 
 ## Teknik yapı ve doğrulama
 
